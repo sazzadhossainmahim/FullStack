@@ -1,0 +1,15 @@
+{
+    "name": "laravel8/laravel",
+    "autoload": {
+        "psr-4": {
+            "Laravel8\\Laravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sazzadhosssainmahim",
+            "email": "44097425+sazzadhossainmahim@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}

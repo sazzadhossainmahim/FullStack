@@ -1,0 +1,19 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sazzadhossainmahim/FullStack.git"
+  },
+  "author": "sazzadhosssainmahim <44097425+sazzadhossainmahim@users.noreply.github.com>",
+  "license": "MIT",
+  "description": "",
+  "bugs": {
+    "url": "https://github.com/sazzadhossainmahim/FullStack/issues"
+  },
+  "homepage": "https://github.com/sazzadhossainmahim/FullStack#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
